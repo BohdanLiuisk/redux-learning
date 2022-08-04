@@ -1,3 +1,3 @@
 build: 
-npm i
+npm i,
 npm run build
